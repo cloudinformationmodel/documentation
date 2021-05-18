@@ -1,10 +1,10 @@
 {
-  "title": "Nuxt Content",
+  "title": "CIM Documentation",
   "url": "",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/cim-text-color.png",
+    "dark": ""
   },
-  "github": "nuxt/content",
-  "twitter": "@nuxt_js"
+  "github": "cloudinformationmodel/documentation",
+  "twitter": "@"
 }

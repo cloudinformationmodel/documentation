@@ -1,27 +1,32 @@
 ---
-title: Introduction
+title: 'PRODUCE'
 description: ''
-position: 1
-category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+position: 30
+category: 'CIM Domains'
 ---
+## Produce
+> Handling of material that you will be buying, moving and selling. For example, product and inventory product.
+### Product v1.0
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+![Product Diagram](https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Product/diagram.png)
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
+#### Description
+```
+* path: https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Product/about.jsonld
+* file name: about.jsonld
+* Field: "description"
 
-<alert type="success">
+Extract this content and print it here:
+```
+> [Description](https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Product/about.jsonld)
 
-Your documentation has been created successfully!
+See GitHub ![GitHub Icon](images/GitHub-Mark-32px.png)
 
-</alert>
+### Product v1.1
 
-## Features
+> Image
 
-<list :items="features"></list>
+> Description
+
 
 <p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
