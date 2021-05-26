@@ -2,7 +2,7 @@
 title: 'SERVICE'
 description: ''
 position: 60
-category: ''
+category: 'CIM Domains'
 ---
 
 ## Case
