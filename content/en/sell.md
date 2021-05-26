@@ -2,7 +2,7 @@
 title: 'SELL'
 description: ''
 position: 50
-category: ''
+category: 'CIM Domains'
 ---
 
 ## Sales Order
