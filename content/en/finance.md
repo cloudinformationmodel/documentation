@@ -2,7 +2,7 @@
 title: 'FINANCE'
 description: ''
 position: 90
-category: ''
+category: 'CIM Domains'
 ---
 ## Payment Method
 
