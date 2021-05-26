@@ -2,7 +2,7 @@
 title: 'FULFILL'
 description: ''
 position: 70
-category: ''
+category: 'CIM Domains'
 ---
 
 ## Shipment
