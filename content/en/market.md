@@ -2,7 +2,7 @@
 title: 'MARKET'
 description: ''
 position: 40
-category: ''
+category: 'CIM Domains'
 ---
 
 ## Party
