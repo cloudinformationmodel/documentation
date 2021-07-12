@@ -15,7 +15,7 @@ category: 'CIM Domains'
 
 ### Payment Method v1.1
 
-![Party Diagram]()
+![Party Diagram](https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Party/diagram.png)
 
 > [Description]()
 
@@ -27,6 +27,6 @@ category: 'CIM Domains'
 
 ### Payment v1.1
 
-![Party Diagram]()
+![Party Diagram](https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Party/diagram.png)
 
 > [Description]()
