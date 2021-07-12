@@ -2,8 +2,8 @@
   "title": "CIM Documentation",
   "url": "",
   "logo": {
-    "light": "/cim-text-color.png",
-    "dark": ""
+    "light": "./cim-text-hztl-color.svg",
+    "dark": "./cim-text-hztl-white.svg"
   },
   "github": "cloudinformationmodel/documentation",
   "twitter": "@"

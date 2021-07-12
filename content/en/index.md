@@ -20,8 +20,6 @@ Extract this content and print it here:
 ```
 > [Description](https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Product/about.jsonld)
 
-See GitHub ![GitHub Icon](images/GitHub-Mark-32px.png)
-
 ### Product v1.1
 
 > Image
