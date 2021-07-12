@@ -1,0 +1,11 @@
+{
+  "name": "documentation",
+  "short_name": "documentation",
+  "description": "Install dependencies:",
+  "icons": [],
+  "start_url": "/documentation/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E24F55",
+  "lang": "en"
+}
