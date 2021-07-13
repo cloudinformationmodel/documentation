@@ -1,10 +1,12 @@
 {
   "title": "CIM Documentation",
-  "url": "",
+  "url": "https://cloudinformationmodel.github.io/documentation/",
   "logo": {
     "light": "./cim-text-hztl-color.svg",
     "dark": "./cim-text-hztl-white.svg"
   },
   "github": "cloudinformationmodel/documentation",
-  "twitter": "@"
+  "twitter": "@",
+  "defaultDir": "" ,
+  "defaultBranch": "master"
 }
